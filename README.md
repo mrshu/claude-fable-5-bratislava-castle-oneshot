@@ -6,6 +6,10 @@ the old town, vineyard slopes and the Petržalka bank — rendered with Three.js
 at golden hour, with a free-view camera system and a directed 20-second
 cinematic showcase.
 
+**Live demo:** [Hugging Face Space](https://huggingface.co/spaces/mrshu/claude-fable-5-bratislava-castle-oneshot)
+·
+**Source:** [GitHub](https://github.com/mrshu/claude-fable-5-bratislava-castle-oneshot)
+
 Built in a single session ("one-shot") by Claude Fable 5, originating from
 this prompt, verbatim:
 
