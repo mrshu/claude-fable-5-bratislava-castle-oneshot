@@ -6,6 +6,17 @@ the old town, vineyard slopes and the Petržalka bank — rendered with Three.js
 at golden hour, with a free-view camera system and a directed 20-second
 cinematic showcase.
 
+Built in a single session ("one-shot") by Claude Fable 5, originating from
+this prompt, verbatim:
+
+> create the most realistic and accurate 3D model of the Bratislava castle
+> (with surrounding scenery). build a camera system to allow free view
+> inspection of the model.
+>
+> Put it all together in the end with a 20 second showcase in a very
+> impressive way. You will be the director of that 20 second showcase, make
+> the most of it, make it cinematic, and most of all make no mistakes.
+
 ## Run it
 
 ```bash
